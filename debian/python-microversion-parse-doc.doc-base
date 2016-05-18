@@ -1,0 +1,9 @@
+Document: python-microversion-parse-doc
+Title: microversion-parse Documentation
+Author: N/A
+Abstract: Sphinx documentation for microversion-parse
+Section: Programming/Python
+
+Format: HTML
+Index: /usr/share/doc/python-microversion-parse-doc/html/index.html
+Files: /usr/share/doc/python-microversion-parse-doc/html/*
