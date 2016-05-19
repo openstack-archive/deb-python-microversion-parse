@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: microversion-parse
-Source: http://launchpad.net/microversion-parse
+Source: https://launchpad.net/microversion-parse
 
 Files: *
 Copyright: (c) 2016, OpenStack Foundation <openstack-dev@lists.openstack.org>
