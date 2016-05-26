@@ -2,6 +2,7 @@ python-microversion-parse (0.1.3-2) UNRELEASED; urgency=medium
 
   * d/rules: Changed UPSTREAM_GIT protocol to https
   * d/copyright: Changed source URL to https protocol
+  * Added Suggests: python-microversion-parse-doc (Closes: #825363)
 
  -- Ondřej Nový <novy@ondrej.org>  Thu, 19 May 2016 21:19:39 +0200
 

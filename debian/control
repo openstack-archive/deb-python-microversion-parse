@@ -31,6 +31,7 @@ Package: python-microversion-parse
 Architecture: all
 Depends: ${misc:Depends},
          ${python:Depends},
+Suggests: python-microversion-parse-doc
 Description: OpenStack microversion header parsing library - Python 2.7
  OpenStack services use REST APIs, which include HTTP headers. This package
  provides a simple parser for OpenStack microversion headers.
@@ -41,6 +42,7 @@ Package: python3-microversion-parse
 Architecture: all
 Depends: ${misc:Depends},
          ${python3:Depends},
+Suggests: python-microversion-parse-doc
 Description: OpenStack microversion header parsing library - Python 3.x
  OpenStack services use REST APIs, which include HTTP headers. This package
  provides a simple parser for OpenStack microversion headers.
