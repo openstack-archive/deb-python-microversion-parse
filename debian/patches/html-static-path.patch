@@ -1,3 +1,7 @@
+Author: Corey Bryant <corey.bryant@canonical.com>
+Last-Update: 2016-05-18
+Forwarded: not-needed
+
 --- a/doc/source/conf.py
 +++ b/doc/source/conf.py
 @@ -140,7 +140,7 @@
