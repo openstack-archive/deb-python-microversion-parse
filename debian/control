@@ -26,6 +26,7 @@ Standards-Version: 3.9.8
 Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-microversion-parse.git/
 Vcs-Git: https://anonscm.debian.org/git/openstack/python-microversion-parse.git
 Homepage: https://launchpad.net/microversion-parse
+Testsuite: autopkgtest-pkg-python
 
 Package: python-microversion-parse
 Architecture: all
