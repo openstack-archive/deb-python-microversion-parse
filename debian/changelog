@@ -1,6 +1,7 @@
 python-microversion-parse (0.1.3-3) UNRELEASED; urgency=medium
 
   * Use OSLO_PACKAGE_VERSION from openstack-pkg-tools
+  * d/{control,copyright}: Use my @debian.org email address
 
  -- Ondřej Nový <novy@ondrej.org>  Tue, 14 Jun 2016 17:31:51 +0200
 
