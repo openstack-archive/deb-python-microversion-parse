@@ -1,11 +1,11 @@
-python-microversion-parse (0.1.4-1) UNRELEASED; urgency=medium
+python-microversion-parse (0.1.4-1) unstable; urgency=medium
 
   * New upstream release
   * d/{control,copyright}: Use my @debian.org email address
   * d/rules: Cleanup and use pkgos-dh_* tools
   * Bump required openstack-pkg-tools version to 52
 
- -- Ondřej Nový <novy@ondrej.org>  Tue, 14 Jun 2016 17:31:51 +0200
+ -- Ondřej Nový <onovy@debian.org>  Sun, 07 Aug 2016 22:05:48 +0200
 
 python-microversion-parse (0.1.3-2) unstable; urgency=medium
 
