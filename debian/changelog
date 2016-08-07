@@ -3,6 +3,7 @@ python-microversion-parse (0.1.4-1) UNRELEASED; urgency=medium
   * New upstream release
   * d/{control,copyright}: Use my @debian.org email address
   * d/rules: Cleanup and use pkgos-dh_* tools
+  * Bump required openstack-pkg-tools version to 52
 
  -- Ondřej Nový <novy@ondrej.org>  Tue, 14 Jun 2016 17:31:51 +0200
 
