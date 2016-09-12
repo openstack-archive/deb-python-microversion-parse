@@ -1,4 +1,5 @@
 [gerrit]
 host=review.openstack.org
 port=29418
-project=openstack/microversion-parse.git
+project=openstack/deb-python-microversion-parse.git
+defaultbranch=debian/newton
