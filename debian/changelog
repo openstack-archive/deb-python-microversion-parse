@@ -1,3 +1,9 @@
+python-microversion-parse (0.1.4-3) UNRELEASED; urgency=medium
+
+  * Bumped debhelper version to 10
+
+ -- Ondřej Nový <onovy@debian.org>  Thu, 17 Nov 2016 16:39:36 +0100
+
 python-microversion-parse (0.1.4-2) unstable; urgency=medium
 
   * d/s/options: extend-diff-ignore of .gitreview
