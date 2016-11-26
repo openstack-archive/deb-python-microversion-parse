@@ -1,3 +1,9 @@
+python-microversion-parse (0.1.4-2~bpo8+1) jessie-backports; urgency=medium
+
+  * Rebuild for jessie-backports.
+
+ -- Ondřej Nový <onovy@debian.org>  Sat, 26 Nov 2016 13:43:37 +0100
+
 python-microversion-parse (0.1.4-2) unstable; urgency=medium
 
   * d/s/options: extend-diff-ignore of .gitreview
